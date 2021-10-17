@@ -223,7 +223,7 @@ if ($item['name']== 'addclients' || $item['name']== 'viewclients') {
           <img src="dist/img/ava.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Welcome!</a>
+          <a href="#" class="d-block">Welcome</a>
           <a href="#" class="d-block" id="usern">User </a>
            <a href="#" class="d-block" id = "role1">Logged In</a>
         </div>
